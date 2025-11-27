@@ -35,10 +35,6 @@ public class TextBox {
 		js.executeScript("window.scrollBy(0,500)");
 		driver.findElement(SubmitButton).click();
 		System.out.println("after submit button click");
-		
-		
-        
-        
 		driver.findElement(formPreview).isDisplayed();
 		String formtext =driver.findElement(formPreview).getText();
 		System.out.println(formtext + ":gettextvalue");
