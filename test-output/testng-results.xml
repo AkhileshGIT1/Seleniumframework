@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-11-27T12:02:26 IST" name="Default suite" finished-at="2025-11-27T12:03:13 IST" duration-ms="46891">
+    <groups>
+    </groups>
+    <test started-at="2025-11-27T12:02:26 IST" name="Default test" finished-at="2025-11-27T12:03:13 IST" duration-ms="46891">
+      <class name="testcases.TextBoxTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcases.TextBoxTest@7586beff]" started-at="2025-11-27T12:02:26 IST" name="setup" finished-at="2025-11-27T12:03:11 IST" duration-ms="44951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="StartTextBoxTest()[pri:0, instance:testcases.TextBoxTest@7586beff]" started-at="2025-11-27T12:03:11 IST" name="StartTextBoxTest" finished-at="2025-11-27T12:03:12 IST" duration-ms="1507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartTextBoxTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.TextBoxTest@7586beff]" started-at="2025-11-27T12:03:12 IST" name="tearDown" finished-at="2025-11-27T12:03:13 IST" duration-ms="369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TextBoxTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
